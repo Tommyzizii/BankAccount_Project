@@ -1,2 +1,2 @@
-# BankAccount_Project
-My BankAccount Project
+#My Java Practice
+Some Basic Practice oF Java
